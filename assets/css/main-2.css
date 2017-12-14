@@ -1,0 +1,28 @@
+* {
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.form{
+	padding: 10%;
+}
+.bandera-1{
+	width: 110%;
+	
+}
+.bandera{
+	width: 5%;
+	
+}
+.bton{
+	background-color:  #FF00BF !important;
+	
+}
+.bton a{
+	
+	text-decoration: none !important;
+	color:white !important;
+	
+}

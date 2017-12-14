@@ -1,0 +1,45 @@
+* {
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+body{
+	background: ;
+	color:#26143E;
+
+}
+
+#splash{
+	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #FF00BF;
+	opacity: 0.7;
+	height: 100vh;
+}
+.fondo{
+	background-image: url('../images/img-lyft.jpg');
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.logo-white{
+	width: 90%;
+}
+.logo-pink{
+	width: 40%;
+	padding-top: 10%;
+}
+.btn{
+margin-top: 110%;
+background:transparent;
+color:white;
+}
+.btn a{
+color:white;
+text-decoration: none;
+}
+
